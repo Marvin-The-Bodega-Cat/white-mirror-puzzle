@@ -1,0 +1,17 @@
+# Binary/image files
+source-heic/
+images/
+stories/*/pages/
+*.png
+*.HEIC
+*.heic
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Reprocess temp files
+to_reprocess*.json
+
+# Large JSON
+page_metadata.json
